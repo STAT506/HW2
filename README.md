@@ -10,7 +10,7 @@ What are you still confused about?
 
 ### Q2. (4 points)
 
-Writ out the three different models (feel free to use the Housing Dataset for context). For each model summarize how the slope and intercept of the model can be interpreted. Partial R code is provided for first two models, more on the third later...
+Write out the three different models (feel free to use the Housing Dataset for context). For each model summarize how the slope and intercept of the model can be interpreted. Partial R code is provided for first two models, more on the third later...
 
 ```
 library(readr)
